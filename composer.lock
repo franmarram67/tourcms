@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "tourcms/tourcms-php",
-            "version": "v3.9.1",
+            "version": "v3.10.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/TourCMS/tourcms-php.git",
-                "reference": "0fcbf92c8ac3ddbbc3baf136e39b96b0d1b76d13"
+                "reference": "f1dd7579391f7eff4b5ea2e1c87fdc64aee9dca1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/TourCMS/tourcms-php/zipball/0fcbf92c8ac3ddbbc3baf136e39b96b0d1b76d13",
-                "reference": "0fcbf92c8ac3ddbbc3baf136e39b96b0d1b76d13",
+                "url": "https://api.github.com/repos/TourCMS/tourcms-php/zipball/f1dd7579391f7eff4b5ea2e1c87fdc64aee9dca1",
+                "reference": "f1dd7579391f7eff4b5ea2e1c87fdc64aee9dca1",
                 "shasum": ""
             },
             "require": {
@@ -54,9 +54,9 @@
             ],
             "support": {
                 "issues": "https://github.com/TourCMS/tourcms-php/issues",
-                "source": "https://github.com/TourCMS/tourcms-php/tree/v3.9.1"
+                "source": "https://github.com/TourCMS/tourcms-php/tree/v3.10.0"
             },
-            "time": "2021-07-21T15:40:01+00:00"
+            "time": "2022-09-28T13:43:51+00:00"
         }
     ],
     "packages-dev": [],
@@ -67,5 +67,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "2.1.0"
+    "plugin-api-version": "2.2.0"
 }
